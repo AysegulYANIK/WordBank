@@ -1,0 +1,15 @@
+C:\Users\ayşegül\source\repos\WordBank\Word Bank\obj\Debug\Word Bank.csprojAssemblyReference.cache
+C:\Users\ayşegül\source\repos\WordBank\Word Bank\obj\Debug\Word_Bank.Properties.Resources.resources
+C:\Users\ayşegül\source\repos\WordBank\Word Bank\obj\Debug\Word Bank.csproj.GenerateResource.cache
+C:\Users\ayşegül\source\repos\WordBank\Word Bank\obj\Debug\Word Bank.csproj.CoreCompileInputs.cache
+C:\Users\ayşegül\source\repos\WordBank\Word Bank\bin\Debug\Word Bank.exe.config
+C:\Users\ayşegül\source\repos\WordBank\Word Bank\bin\Debug\Word Bank.exe
+C:\Users\ayşegül\source\repos\WordBank\Word Bank\bin\Debug\Word Bank.pdb
+C:\Users\ayşegül\source\repos\WordBank\Word Bank\bin\Debug\Speech.Synthesis.Core.dll
+C:\Users\ayşegül\source\repos\WordBank\Word Bank\bin\Debug\Speech.Synthesis.Microsoft.dll
+C:\Users\ayşegül\source\repos\WordBank\Word Bank\obj\Debug\Word Bank.csproj.CopyComplete
+C:\Users\ayşegül\source\repos\WordBank\Word Bank\obj\Debug\Word Bank.exe
+C:\Users\ayşegül\source\repos\WordBank\Word Bank\obj\Debug\Word Bank.pdb
+C:\Users\ayşegül\source\repos\WordBank\Word Bank\obj\Debug\Word_Bank.AddWord.resources
+C:\Users\ayşegül\source\repos\WordBank\Word Bank\obj\Debug\Word_Bank.GlanceWindow.resources
+C:\Users\ayşegül\source\repos\WordBank\Word Bank\obj\Debug\Word_Bank.WordsList.resources
